@@ -8,7 +8,7 @@ namespace Калкулатор_.net9
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.Title = "Калкулатор";
-
+            
             string str; //вызначаєме текст
             int num1, num2, result; //вызначаєме ціфры
             Console.WriteLine("\t\tДОДАВАНЯ ДВОХ ЧІСЕЛ\n");
